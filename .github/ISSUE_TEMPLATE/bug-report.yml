@@ -40,7 +40,7 @@ body:
     id: python-version
     attributes:
       label: Python version information
-      description: Python version you use
+      description: Python version you-use
       options:
         - ">=3.11"
         - "3.10"
